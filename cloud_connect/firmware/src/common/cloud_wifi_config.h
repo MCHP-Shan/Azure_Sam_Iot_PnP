@@ -43,8 +43,8 @@
 
 #define WLAN_AUTH_WPA_PSK
 
-#define WLAN_SSID                                "Naruto"
-#define WLAN_PSK                                 "12345678"
+#define WLAN_SSID                                "NETGEAR51"
+#define WLAN_PSK                                 "melodicship232"
 #if !defined(WLAN_SSID) || !defined(WLAN_PSK)
     #error WLAN/WiFi SSID and Password are not defined! \
             Uncomment defines and replace xxxxxxxxxx with SSID and Password!
